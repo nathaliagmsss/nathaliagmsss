@@ -8,15 +8,15 @@
 ## 🚀 Meus Principais Projetos
 
 ### 🔧 Engenharia de Dados
-- 📊 [Pipeline de Dados com Python](https://github.com/nathaliagmsss/pipeline-py-dados)  
+- 📊 [Pipeline de Dados com Python]((https://github.com/nathaliagmsss/pipeline-dados.git))  
   Leitura, transformação e consolidação de arquivos CSV e JSON com Python puro.
 
 ### ☕ Java / Spring Boot
-- 🔄 [Java Advanced API](https://github.com/nathaliagmsss/java-advanced-api)  
+- 🔄 [Java Advanced API](https://github.com/nathaliagmsss/fonte_viva_api.git)  
   API REST estruturada com boas práticas, padrão DAO, Spring Boot e camadas organizadas.
 
 ### 🧩 Full Stack com TypeScript
-- 💸 [Sistema de Gerenciamento Financeiro](https://github.com/nathaliagmsss/sistema-gerenciamento-financeiro)  
+- 💸 [Sistema de Gerenciamento Financeiro](https://github.com/nathaliagmsss/gerenciamento-financeiro.git)  
   Backend em Node.js (Fastify + Prisma) e Frontend com Next.js (TypeScript + Tailwind).
 
 ---
