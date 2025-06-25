@@ -8,7 +8,7 @@
 ## 🚀 Meus Principais Projetos
 
 ### 🔧 Engenharia de Dados
-- 📊 [Pipeline de Dados com Python]((https://github.com/nathaliagmsss/pipeline-dados.git))  
+- 📊 [Pipeline de Dados com Python](https://github.com/nathaliagmsss/pipeline-dados.git)  
   Leitura, transformação e consolidação de arquivos CSV e JSON com Python puro.
 
 ### ☕ Java / Spring Boot
